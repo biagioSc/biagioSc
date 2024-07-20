@@ -1,7 +1,7 @@
 # About Biagio
 
 -👋 Hi, I am Biagio Scotto di Covella, I am 22 years old and I have a degree in Computer Science from the University of Naples Federico II.
--👀 I am interested in Cyber Security and I hope to get into this amazing field as soon as possible and i also have a strong passion for user interface design and mobile graphics
+-👀 I am interested in Cyber Security and I hope to get into this amazing field as soon as possible and i also have a strong passion for user interface design and mobile graphics.
 -👨‍💻 I am collaborating in a research group at my University led by Prof. W. Balzano and Prof. S. Stranieri.
 
 Translated with DeepL.com (free version)
