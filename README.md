@@ -1,9 +1,10 @@
 # About Biagio
 
-- 👋 Ciao, sono Biagio Scotto di Covella, ho 22 anni e sono laureato in Informatica all'Università di Napoli Federico II.
-- 👀 Sono interessato alla Cyber Security e spero di entrare in questo fantastico settore il prima possibile.
-- 👀 Ho una forte passione anche per la progettazione di interfacce utente e la grafica mobile
-- 👨‍💻 Sto collaborando in un gruppo di ricerca della mia Università guidato dal Prof. W. Balzano e dal Prof. S. Stranieri.
+-👋 Hi, I am Biagio Scotto di Covella, I am 22 years old and I have a degree in Computer Science from the University of Naples Federico II.
+-👀 I am interested in Cyber Security and I hope to get into this amazing field as soon as possible and i also have a strong passion for user interface design and mobile graphics
+-👨‍💻 I am collaborating in a research group at my University led by Prof. W. Balzano and Prof. S. Stranieri.
+
+Translated with DeepL.com (free version)
 ## Publications
 
 * A Resource Allocation Technique for VANETs Inspired to the Banker’s Algorithm. (Balzano W., Prosciutto E., Scotto di Covella B., Stranieri S.) International Conference on P2P, Parallel, Grid, Cloud and Internet Computing 2022. https://link.springer.com/chapter/10.1007/978-3-031-19945-5_22 
