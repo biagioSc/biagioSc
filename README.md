@@ -1,8 +1,8 @@
 # About Biagio
 
--👋 Hi, I am Biagio Scotto di Covella, I am 23 years old and I have a degree in Computer Science from the University of Naples Federico II.
--👀 I am currently attending the master's degree course in computer security at the University of Salerno
--👨‍💻 I am collaborating in a research group at the University Federico II led by Prof. W. Balzano.
+- 👋 Hi, I am Biagio Scotto di Covella, I am 23 years old and I have a degree in Computer Science from the University of Naples Federico II.
+- 👀 I am currently attending the master's degree course in computer security at the University of Salerno
+- 👨‍💻 I am collaborating in a research group at the University Federico II led by Prof. W. Balzano.
 
 ## Publications
 
