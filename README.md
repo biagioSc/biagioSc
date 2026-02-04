@@ -1,4 +1,6 @@
 <img width="1400" height="350" alt="Frame 126" src="https://github.com/user-attachments/assets/b1b05d60-ebd2-49de-bc13-47039562a3fc" />
+
+---
  
 #Biagio Scotto di Covella
 ### Functional Analyst | Bachelor’s Degree in Computer Science | Cybersecurity Student👨🏻‍💻
