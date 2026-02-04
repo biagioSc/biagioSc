@@ -2,7 +2,7 @@
 
 ---
  
-#Biagio Scotto di Covella
+# Biagio Scotto di Covella
 ### Functional Analyst | Bachelor’s Degree in Computer Science | Cybersecurity Student👨🏻‍💻
 
 ---
